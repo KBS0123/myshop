@@ -1,0 +1,4 @@
+.idea
+db.salite3
+*.pyc
+__pycache__
